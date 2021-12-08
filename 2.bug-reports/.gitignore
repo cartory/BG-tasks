@@ -1,4 +1,5 @@
 # dirs
+dist/
 node_modules/ 
 
 # files
