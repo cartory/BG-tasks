@@ -1,0 +1,15 @@
+/*!
+ * Chart.js v3.6.2
+ * https://www.chartjs.org
+ * (c) 2021 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+/*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*! fromentries. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
