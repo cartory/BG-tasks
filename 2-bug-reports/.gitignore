@@ -1,0 +1,6 @@
+# dirs
+dist/
+node_modules/ 
+
+# files
+reports.md
